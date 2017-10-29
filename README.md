@@ -1,4 +1,4 @@
-# SCTF
+# PantherCTF
 Security Capture the Flag Platform is the best platform for CTF Challenges. You will be able to define Teams, Challenges and access to relative statistics. SCTF is lightweight and fast django application that is able to support large competition. 
 
 We would love to see how you use this awesome Platform. You can notify us about your site, app or service by mail. 
